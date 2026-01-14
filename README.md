@@ -15,8 +15,8 @@ Node.js (v14 or later recommended)
 Installation
 Clone the Repository:
 ```
-git clone https://github.com/AteebHussain2/Broadcast-Server-Roadmap.sh-Intermedia-Project.git
-cd Broadcast-Server-Roadmap.sh-Intermedia-Project
+git clone https://github.com/AteebHussain2/broadcast-server.git
+cd broadcast-server
 ```
 Install Dependencies:
 ```
